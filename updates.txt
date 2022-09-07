@@ -1,0 +1,6 @@
+-Add requested data on all screens
+   -below "search" and "View all LOB" tabs
+   -data can be fetched from "in-memory-data.service.ts"
+      -need to aggregate fetched data
+-Display number of quotes for a given LOB on details page
+   

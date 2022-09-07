@@ -8,9 +8,9 @@ is David Thomas and your favorite number is 4 then your branch should be 'dthoma
 back to origin.  In order to ensure a prompt review of your completed code, please also reply to the email requesting that you complete this challenge 
 indicating that you have finished it.
 
-Specification's
+Specifications:
 
-Comments from business unit: "Recently I was updating the types of business one our agents was allowed to quote when I realized that I didn't know
+Comments from business unit: "Recently I was updating the types of business one of our agents was allowed to quote when I realized that I didn't know
 how often each type of insurance coverage was quoted.  This information could be learned through reports, but it would be very convenient to be able
 to identify which types of insurance were most popular and which ones were not being quoted often when updating an agents authority.  Could we get 
 something added to the screen?"

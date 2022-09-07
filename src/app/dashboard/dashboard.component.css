@@ -4,7 +4,7 @@ h2 {
   text-align: center;
 }
 
-.linesOfBuisness-menu {
+.linesOfBusiness-menu { /* MK: Resolved typo in css class name. Style was not being applied */
   padding: 0;
   margin: auto;
   max-width: 1000px;

@@ -1,0 +1,8 @@
+<h2>Most Quoted Lines of Business</h2>
+<div class="mostQuoted">
+   <a *ngFor="let lineOfBusiness of linesOfBusinessSorted; index as i"
+      routerLink="/detail/{{lineOfBusiness.id}}">
+         {{lineOfBusiness.name | uppercase}}: <br/>
+         {{LOBQuoteCounts[i].count}} recent quotes
+   </a>
+</div>
